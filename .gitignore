@@ -2,8 +2,6 @@
 Thumbs.db
 db.json
 *.log
-themes
-.idea
 node_modules/
 public/
 .deploy*/
