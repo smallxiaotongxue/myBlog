@@ -2,6 +2,7 @@
 title: NVIDIA显示设置不可用问题解决
 date: 2018-06-04 22:48:39
 tags: 硬件问题
+categories: 硬件问题
 ---
 
 ## 问题
