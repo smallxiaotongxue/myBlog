@@ -1,5 +1,6 @@
 ---
 title: Let's begin Blog
+categories: 个人
 ---
 
 ><font face="微软雅黑">小记</font>
